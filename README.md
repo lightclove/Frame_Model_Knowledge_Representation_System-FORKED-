@@ -2,7 +2,7 @@
 Frame Model Knowledge Representation System (FORKED)
 The main advantage of frames as a model of knowledge representation is that it reflects the conceptual basis of organizing human memory, as well as its flexibility and visualization.
 The most clearly the advantages of framework systems of knowledge of knowledge are manifested if the birth relations change infrequently and the subject area has a little exceptions.
-In framework systems, data on the Rodovid ties are clearly stored, as well as knowledge of other types.
+In framework systems, data on the ties are clearly stored, as well as knowledge of other types.
 The values of the slots are presented in the system in a single copy, since they are included only in one frame that describes the most concepts of all those that contain a slot with this name.
 This property of frames systems ensures economical placement of knowledge base in computer memory. Another advantage of frames is that the value of any slot can be calculated
 Using appropriate procedures or found by heuristic methods. That is, the frames allow manipulating both declarative and procedural knowledge.
